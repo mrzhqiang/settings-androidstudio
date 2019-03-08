@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/googlesamples/android-BluetoothChat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.touchair.cn:uppc/uppc-sdk-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\2github" />
+    <option name="cloneParentDir" value="F:\Developer\android-project" />
   </component>
 </application>
