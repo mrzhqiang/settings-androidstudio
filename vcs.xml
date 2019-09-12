@@ -22,8 +22,12 @@
           <option name="url" value="http://git.touchair.cn:8080" />
           <option name="userName" value="qiang.zhang@touchair.cn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/leavesC/ViewModel_Retrofit_RxJava.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Developer\android-project" />
+    <option name="cloneParentDir" value="D:\1mrzh" />
   </component>
 </application>
