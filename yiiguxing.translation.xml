@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="request a custom &lt;em&gt;positive&lt;/em&gt; amount." />
+      <item value="positive" />
       <item value="that accepts parameter type" />
       <item value="No injector factory bound for Class&lt;com.github.mrzhqiang.randall.ui.AddAccountActivity&gt;" />
       <item value="StrictMode policy violation; ~duration=4 ms: android.os.strictmode.DiskReadViolation" />
@@ -14,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
