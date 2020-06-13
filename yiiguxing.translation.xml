@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
+      <item value="You can simply fix this by increasing the version number." />
+      <item value="Looks like you've changed schema but forgot to update the version number." />
+      <item value="Room cannot verify the data integrity." />
       <item value="request a custom &lt;em&gt;positive&lt;/em&gt; amount." />
       <item value="positive" />
       <item value="that accepts parameter type" />
@@ -16,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
