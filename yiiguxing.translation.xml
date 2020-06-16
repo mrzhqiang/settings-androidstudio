@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Future" />
+      <item value="阶梯式" />
       <item value="色情鉴定" />
       <item value="鉴定色情" />
       <item value="鉴定" />
@@ -28,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
