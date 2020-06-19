@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Typically implemented by an injector. For * any type {@code T} that can be injected, you can also inject * {@code Provider&lt;T&gt;}. Compared to injecting {@code T} directly, injecting * {@code Provider&lt;T&gt;} enables:" />
+      <item value="Provider" />
       <item value="Members" />
       <item value="example" />
       <item value="Future" />
@@ -32,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
