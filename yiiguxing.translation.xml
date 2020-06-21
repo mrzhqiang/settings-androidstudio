@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="In order to get the proper behavior associated with a scope annotation, it is the caller's * responsibility to instantiate new component instances when appropriate. A {@link Singleton} * component, for instance, should only be instantiated once per application, while a {@code * RequestScoped} component should be instantiated once per request. Because components are * self-contained implementations, exiting a scope is as simple as dropping all references to the * component instance." />
+      <item value="Each Dagger component can be associated with a scope by annotating it with the {@linkplain * Scope scope annotation}. The component implementation ensures that there is only one provision of * each scoped binding per instance of the component. If the component declares a scope, it may only * contain unscoped bindings or bindings of that scope anywhere in the graph. For example:" />
+      <item value="In the case that a component has no component dependencies and only no-arg modules, the * generated component will also have a factory method {@code create()}. {@code * SomeComponent.create()} and {@code SomeComponent.builder().build()} are both valid and * equivalent." />
+      <item value="While a members-injection method for a type will accept instances of its subtypes," />
+      <item value="A note about covariance" />
+      <item value="Calling {@link MembersInjector#injectMembers} on the returned object will * perform the same work as a members injection method." />
+      <item value="Members-injection methods have a single parameter and inject dependencies into each of the * {@link Inject}-annotated fields and methods of the passed instance. A members-injection method * may be void or return its single parameter as a convenience for chaining. The following are all * valid members-injection method declarations:" />
+      <item value="The following provision methods all request provision of the same type, but each * implies different semantics:" />
+      <item value="but will defer it until the first call to {@link * Lazy#get}." />
+      <item value="will only ever request a single" />
+      <item value="A {@link * Lazy} will only ever request a single provision," />
+      <item value="A {@link Provider} allows the user of * the component to request provision any number of times by calling {@link Provider#get}." />
+      <item value="more explicitly control provision requests" />
+      <item value="Provision methods, like typical {@link Inject injection} sites" />
       <item value="The following are * all valid provision method declarations:" />
       <item value="Each method may have a {@link Qualifier} annotation as well" />
       <item value="Provision" />
@@ -37,25 +51,11 @@
       <item value="鉴定" />
       <item value="鉴黄" />
       <item value="原子" />
-      <item value="Take Shot" />
-      <item value="Captured" />
-      <item value="couldn't make a guess for" />
-      <item value="Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
-      <item value="You can simply fix this by increasing the version number." />
-      <item value="Looks like you've changed schema but forgot to update the version number." />
-      <item value="Room cannot verify the data integrity." />
-      <item value="request a custom &lt;em&gt;positive&lt;/em&gt; amount." />
-      <item value="positive" />
-      <item value="that accepts parameter type" />
-      <item value="No injector factory bound for Class&lt;com.github.mrzhqiang.randall.ui.AddAccountActivity&gt;" />
-      <item value="StrictMode policy violation; ~duration=4 ms: android.os.strictmode.DiskReadViolation" />
-      <item value="StrictMode policy violation; ~duration=179 ms: android.os.strictmode.DiskReadViolation" />
-      <item value="Atomically clears the container, then disposes all the previously contained Disposables" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
