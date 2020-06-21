@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The following are * all valid provision method declarations:" />
+      <item value="Each method may have a {@link Qualifier} annotation as well" />
+      <item value="Provision" />
+      <item value="Provision methods have no parameters" />
+      <item value="Every type annotated with @Component must contain at least one abstract component method. Component methods may have any name, but must have signatures that conform to either provision or members-injection contracts." />
+      <item value="Injects dependencies into the fields and methods on instances of type T. Ignores the presence or absence of an injectable constructor." />
+      <item value="Injects dependencies into the fields and methods of instance. Ignores the presence or absence of an injectable constructor. Whenever a Component creates an instance, it performs this injection automatically (after first performing constructor injection), so if you're able to let the component create all your objects for you, you'll never need to use this method." />
+      <item value="Injects dependencies into the fields and methods of {@code instance}. Ignores the presence or * absence of an injectable constructor." />
+      <item value="conform" />
+      <item value="Ordering of * injection among fields and among methods in the same class is not specified." />
+      <item value="Fields and methods * in superclasses are injected before those in subclasses." />
+      <item value="Constructors are * injected first, followed by fields, and then methods." />
+      <item value="An injectable member may have any access * modifier (private, package-private, protected, public)." />
+      <item value="as well as" />
+      <item value="May apply to static * as well as instance members." />
+      <item value="Identifies injectable constructors, methods, and fields." />
+      <item value="fields" />
+      <item value="Annotates an interface or abstract class for which a fully-formed, dependency-injected implementation is to be generated from a set of modules(). The generated class will have the name of the type annotated with @Component prepended with Dagger. For example, @Component interface MyComponent {...} will produce an implementation named DaggerMyComponent." />
+      <item value="Annotates an interface or abstract class for which a fully-formed," />
       <item value="formed" />
       <item value="fully-formed" />
       <item value="Annotates an interface or abstract class for which a fully-formed" />
@@ -32,16 +51,12 @@
       <item value="StrictMode policy violation; ~duration=4 ms: android.os.strictmode.DiskReadViolation" />
       <item value="StrictMode policy violation; ~duration=179 ms: android.os.strictmode.DiskReadViolation" />
       <item value="Atomically clears the container, then disposes all the previously contained Disposables" />
-      <item value="is bound multiple times:" />
-      <item value="This condition was never validated before, and will soon be an error" />
-      <item value="Cannot create an instance" />
-      <item value="This type supports members injection but cannot be implicitly provided." />
-      <item value="scoped with @Singleton may not reference bindings with different scopes:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
+        <entry key="ROMANIAN" value="1" />
       </map>
     </option>
   </component>
