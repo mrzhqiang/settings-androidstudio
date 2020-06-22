@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <histories>
       <item value="contracts" />
+      <item value="either" />
+      <item value="conform to either" />
       <item value="conform" />
       <item value="but must have signatures that conform to either * {@linkplain Provider provision} or {@linkplain MembersInjector members-injection} contracts." />
       <item value="In order to get the proper behavior associated with a scope annotation, it is the caller's * responsibility to instantiate new component instances when appropriate. A {@link Singleton} * component, for instance, should only be instantiated once per application, while a {@code * RequestScoped} component should be instantiated once per request. Because components are * self-contained implementations, exiting a scope is as simple as dropping all references to the * component instance." />
@@ -49,14 +51,12 @@
       <item value="Future" />
       <item value="阶梯式" />
       <item value="色情鉴定" />
-      <item value="鉴定色情" />
-      <item value="鉴定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
+        <entry key="ROMANIAN" value="3" />
       </map>
     </option>
   </component>
