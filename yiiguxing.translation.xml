@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contracts" />
+      <item value="conform" />
+      <item value="but must have signatures that conform to either * {@linkplain Provider provision} or {@linkplain MembersInjector members-injection} contracts." />
       <item value="In order to get the proper behavior associated with a scope annotation, it is the caller's * responsibility to instantiate new component instances when appropriate. A {@link Singleton} * component, for instance, should only be instantiated once per application, while a {@code * RequestScoped} component should be instantiated once per request. Because components are * self-contained implementations, exiting a scope is as simple as dropping all references to the * component instance." />
       <item value="Each Dagger component can be associated with a scope by annotating it with the {@linkplain * Scope scope annotation}. The component implementation ensures that there is only one provision of * each scoped binding per instance of the component. If the component declares a scope, it may only * contain unscoped bindings or bindings of that scope anywhere in the graph. For example:" />
       <item value="In the case that a component has no component dependencies and only no-arg modules, the * generated component will also have a factory method {@code create()}. {@code * SomeComponent.create()} and {@code SomeComponent.builder().build()} are both valid and * equivalent." />
@@ -23,7 +26,6 @@
       <item value="Injects dependencies into the fields and methods on instances of type T. Ignores the presence or absence of an injectable constructor." />
       <item value="Injects dependencies into the fields and methods of instance. Ignores the presence or absence of an injectable constructor. Whenever a Component creates an instance, it performs this injection automatically (after first performing constructor injection), so if you're able to let the component create all your objects for you, you'll never need to use this method." />
       <item value="Injects dependencies into the fields and methods of {@code instance}. Ignores the presence or * absence of an injectable constructor." />
-      <item value="conform" />
       <item value="Ordering of * injection among fields and among methods in the same class is not specified." />
       <item value="Fields and methods * in superclasses are injected before those in subclasses." />
       <item value="Constructors are * injected first, followed by fields, and then methods." />
@@ -49,14 +51,12 @@
       <item value="色情鉴定" />
       <item value="鉴定色情" />
       <item value="鉴定" />
-      <item value="鉴黄" />
-      <item value="原子" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
+        <entry key="ROMANIAN" value="2" />
       </map>
     </option>
   </component>
