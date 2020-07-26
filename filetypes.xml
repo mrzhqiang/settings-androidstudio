@@ -2,8 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
-      <mapping pattern="uppc-channel" type="PLAIN_TEXT" />
+      <mapping ext="emmx" type="Native" />
       <mapping pattern="position" type="PLAIN_TEXT" />
+      <mapping pattern="uppc-channel" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
