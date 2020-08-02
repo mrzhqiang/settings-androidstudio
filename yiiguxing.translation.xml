@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="launcher" />
       <item value="reentrant" />
       <item value="contracts" />
       <item value="either" />
@@ -50,11 +51,10 @@
       <item value="Members" />
       <item value="example" />
       <item value="Future" />
-      <item value="阶梯式" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
+        <entry key="CHINESE" value="67" />
         <entry key="ENGLISH" value="67" />
         <entry key="ROMANIAN" value="3" />
       </map>
