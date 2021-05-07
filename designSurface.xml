@@ -1,0 +1,17 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/gitee/Randall/app/src/main/res/layout/activity_add_account.xml" value="0.19583333333333333" />
+        <entry key="..\:/gitee/Randall/app/src/main/res/layout/activity_main.xml" value="0.19583333333333333" />
+        <entry key="..\:/gitee/Randall/app/src/main/res/layout/activity_register.xml" value="0.19583333333333333" />
+        <entry key="..\:/gitee/Randall/app/src/main/res/layout/activity_welcome.xml" value="0.19583333333333333" />
+        <entry key="..\:/gitee/Randall/app/src/main/res/layout/item_account.xml" value="0.19583333333333333" />
+        <entry key="..\:/gitee/Randall/app/src/main/res/layout/layout_input_account.xml" value="0.19583333333333333" />
+        <entry key="..\:/gitee/Randall/app/src/main/res/layout/layout_progress.xml" value="0.19583333333333333" />
+        <entry key="..\:/gitee/Randall/app/src/main/res/layout/layout_register_help.xml" value="0.19583333333333333" />
+        <entry key="..\:/gitee/Randall/app/src/main/res/layout/layout_validate.xml" value="0.19583333333333333" />
+      </map>
+    </option>
+  </component>
+</application>
